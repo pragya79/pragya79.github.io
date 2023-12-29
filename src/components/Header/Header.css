@@ -1,0 +1,22 @@
+/* $primary-color:#0f171e;
+$secondary-color:#1a242f;
+$font-primary:#fff;
+$font-secondary:#79b8f3; */
+.header{
+    background-color:#1a242f ;
+    height: 72px;
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+.user-image,
+.user-image img{
+    width: 48px;
+    height: 48px;
+}

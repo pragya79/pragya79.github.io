@@ -1,0 +1,12 @@
+/* $primary-color:#0f171e;
+$secondary-color:#1a242f;
+$font-primary:#fff;
+$font-secondary:#79b8f3; */
+.footer{
+    background-color: #1a242f;
+    height: 72px;
+    display: flex;
+    place-items: center;
+    color: #fff;
+    flex-direction: column;
+}
